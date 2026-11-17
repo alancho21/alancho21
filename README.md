@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Alan Samperio Aguirre
+**Ingeniero de Software | Desarrollador Salesforce & Full-Stack**
 
-<!--
-**alancho21/alancho21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Ingeniero de Software egresado de la Universidad Politécnica de Pachuca (UPP). Me especializo en construir arquitecturas escalables, tanto en el ecosistema **Salesforce** (Apex, LWC, fflib) como en desarrollos **Full-Stack** (React, Node.js, Laravel). 
 
-Here are some ideas to get you started:
+Me apasiona resolver problemas complejos de lógica de negocio, optimizar flujos de datos e integrar APIs de terceros (como Twilio y pasarelas de pago).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+- **Ecosistema Salesforce:** Apex, Lightning Web Components (LWC), SOQL/SOSL, fflib Enterprise Patterns, Salesforce CLI.
+- **Frontend:** React.js, Next.js, Tailwind CSS, Jetpack Compose (Android).
+- **Backend & Bases de Datos:** Node.js, Deno (Supabase Edge Functions), PHP (Laravel), MongoDB, MySQL.
+- **Integraciones:** REST APIs, Twilio TaskRouter/Voice, Mercado Pago Checkout Pro.
+
+### 🚀 Experiencia Destacada
+- **Desarrollo en Salesforce:** Arquitectura de integración para enrutamiento de llamadas y configuración de horarios dinámicos utilizando Apex y LWC (IZEI CG).
+- **Sistemas de Gestión Comercial:** Desarrollo de Puntos de Venta (POS) e inventarios para cafeterías y empresas de extracción mineral.
+- **Minería de Datos:** Implementación de algoritmos genéticos desde cero para modelos de regresión lineal.
+
+📫 **Contacto:** [alansamp2004@gmail.com] | [www.linkedin.com/in/alan-samperio-aguirre-82448a1a9]
